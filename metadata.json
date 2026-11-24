@@ -1,0 +1,6 @@
+{
+  "name": "Siomay Wiguna – Agen Persediaan",
+  "description": "Sistem manajemen persediaan berbasis agen AI untuk UMKM Siomay Wiguna Tasikmalaya (tugas UAS Supply Chain Management).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
